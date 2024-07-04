@@ -1,0 +1,65 @@
+*{
+    
+    text-align: center; 
+   
+    margin: 0px;
+}
+body{
+    background-image: url(360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.jpg);
+    background-repeat: cover; 
+}
+h1{
+color: rgba(0, 255, 255, 0.753);
+font-style: italic;
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+padding-bottom: 10px;
+}
+h3{
+    color: aquamarine;
+    padding-bottom: 10px;
+}
+h4{
+    color: rgba(255, 0, 0, 0.767);
+}
+#img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+   
+}
+input{
+    color: aquamarine;
+    background-color: rgb(4, 63, 43);
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px ;
+}
+#email{
+    height: 20px;
+    width: 200px;
+    background-color: rgba(127, 255, 212, 0.977);
+    margin: 5px;
+    border: 1px solid;
+    box-shadow: 5px 3px 3px ;
+    border-radius: 5px;
+    r
+}
+#password{
+    width: 150px;
+    height: 18px;
+    background-color: rgba(127, 255, 212, 0.977);
+    border: 1px solid;
+    box-shadow: 5px 3px 3px ;
+    border-radius: 5px;
+    
+}
+footer{
+    margin-top: 73px;
+    background-color: black;
+   color: aqua;
+}
+a{
+    text-decoration: none;
+
+}
